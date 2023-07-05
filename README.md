@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+<img align="center" alt="Coding"  src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 
 <p align="left"> 
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Verma</h1>
