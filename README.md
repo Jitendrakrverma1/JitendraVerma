@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+<img align="center"  height="200" alt="Coding" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 <p align="left"> 
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Verma</h1>
 <h3 align="center">I am passionate to develop Application using Java, SpringBoot and Angular.</h3>
