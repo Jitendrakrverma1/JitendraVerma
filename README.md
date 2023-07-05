@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" src="[https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif](https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x)">
+<p align="left"> 
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Verma</h1>
 <h3 align="center">I am passionate to develop Application using Java, SpringBoot and Angular.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
